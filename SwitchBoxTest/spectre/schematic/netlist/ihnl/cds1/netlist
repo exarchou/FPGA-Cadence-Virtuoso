@@ -1,0 +1,22 @@
+
+// Library name: myLib27
+// Cell name: SwitchBoxTest
+// View name: schematic
+I0 (C0 C1 C2 C3 S0 S1 S2 S3 S4 S5) switchBox
+V6 (S5 0) vsource type=pulse val0=0 val1=1 period=200n delay=80n rise=1p \
+        fall=1p width=100n
+V5 (S4 0) vsource type=pulse val0=0 val1=1 period=200n delay=80n rise=1p \
+        fall=1p width=100n
+V4 (S2 0) vsource type=pulse val0=0 val1=1 period=200n delay=80n rise=1p \
+        fall=1p width=100n
+V3 (S3 0) vsource type=pulse val0=0 val1=1 period=200n delay=40n rise=1p \
+        fall=1p width=100n
+V2 (S1 0) vsource type=pulse val0=0 val1=1 period=200n delay=30n rise=1p \
+        fall=1p width=100n
+V1 (S0 0) vsource type=pulse val0=0 val1=1 period=200n delay=20n rise=1p \
+        fall=1p width=100n
+V0 (C3 0) vsource type=pulse val0=0 val1=1 period=100n delay=10n rise=1p \
+        fall=1p width=50n
+R2 (0 C1) resistor r=10K c=0
+R1 (0 C0) resistor r=50K c=0
+R0 (0 C2) resistor r=100K c=0

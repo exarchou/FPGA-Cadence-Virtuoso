@@ -1,0 +1,5 @@
+
+// Library name: myLib27
+// Cell name: switchBox
+// View name: schematic
+subckt switchBox C0 C1 C2 C3 S0 S1 S2 S3 S4 S5

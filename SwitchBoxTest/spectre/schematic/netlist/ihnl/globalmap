@@ -1,0 +1,10 @@
+CADENCE IHNL11140
+$model
+myLib27/switchBox/schematic switchBox
+myLib27/SwitchBoxTest/schematic SwitchBoxTest
+$endmodel
+$net
+gnd! 0
+$endnet
+$param
+$endparam

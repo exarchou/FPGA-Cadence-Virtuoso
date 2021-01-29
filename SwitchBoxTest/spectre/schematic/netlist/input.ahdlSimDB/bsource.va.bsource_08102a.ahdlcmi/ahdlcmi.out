@@ -1,0 +1,93 @@
+ahdlcmicompile: Compiling ahdlcmi in input.ahdlSimDB//bsource.va.bsource_08102a.ahdlcmi/Linux-64/ for Linux-64 with optimize using gcc on Thu Dec  5 12:37:23 EET 2019 [5.0]
+ahdlcmicompile: Generating makefile
+PATH:  /software/cadence/installs/MMSIM131/tools.lnx86/cdsgcc/gcc/4.1-x86_64/install/bin:/software/cadence/installs/MMSIM131/bin:/software/cadence/installs/MMSIM131/tools.lnx86/bin/64bit:/software/cadence/installs/MMSIM131/tools.lnx86/bin:/software/cadence/installs/IC617/bin:/software/cadence/installs/IC617/tools/bin:/software/cadence/installs/IC617/tools/bin/64bit:/software/cadence/installs/IC617/share/oa/bin:/software/cadence/installs/INCISIVE152/tools/bin:/software/cadence/installs/IC617/tools/dfII/bin:/software/cadence/installs/IC617/tools/plot/bin:/software/cadence/installs/IC617/tools/etc:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/software/cadence/installs/ASSURA41/bin:/software/cadence/installs/ASSURA41/tools.lnx86/bin:/software/cadence/installs/EDI142/bin:/software/cadence/installs/EDI142/tools.lnx86/bin:/software/cadence/installs/GENUS171/bin:/software/cadence/installs/GENUS171/tools.lnx86/bin:/software/cadence/installs/IC617/tools.lnx86/bin:/software/cadence/installs/INCISIVE152/bin:/software/cadence/installs/INCISIVE152/tools.lnx86/bin:/software/cadence/installs/INNOVUS171/bin:/software/cadence/installs/INNOVUS171/tools.lnx86/bin:/software/cadence/installs/PVS161/bin:/software/cadence/installs/PVS161/tools.lnx86/bin:/software/cadence/installs/RC142/bin:/software/cadence/installs/RC142/tools.lnx86/bin:/software/cadence/installs/SPECTRE161/bin:/software/cadence/installs/SPECTRE161/tools.lnx86/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/usr/local/MATLAB/R2011b/bin:/opt/netbeans/bin:/opt/glassfish/bin
+LD_LIBRARY_PATH:  /software/cadence/installs/MMSIM131/tools.lnx86/cdsgcc/gcc/4.1-x86_64/install/lib:/software/cadence/installs/MMSIM131/tools.lnx86/giganta/lib/64bit:/software/cadence/installs/MMSIM131/tools.lnx86/mdl/lib/64bit:/software/cadence/installs/MMSIM131/tools.lnx86/mmsim/lib/64bit:/software/cadence/installs/MMSIM131/tools.lnx86/inca/lib/64bit:/software/cadence/installs/MMSIM131/tools.lnx86/spectre/lib/64bit:/software/cadence/installs/MMSIM131/tools.lnx86/dfII/lib/64bit:/software/cadence/installs/MMSIM131/tools.lnx86/lib/64bit:/software/cadence/installs/MMSIM131/tools.lnx86/lib:/software/cadence/installs/IC617/tools/lib:/software/cadence/installs/IC617/tools/lib/64bit/Ubuntu:/software/cadence/installs/IC617/share/oa/lib/linux_rhel50_gcc48x_64/opt:/software/cadence/installs/IC617/tools/Qt/64bit/lib:/software/cadence/installs/IC617/tools/dfII/lib/64bit:/software/cadence/installs/IC617/tools/sev/lib/64bit:/software/cadence/installs/IC617/tools/lib/64bit:/software/cadence/installs/INCISIVE152/tools.lnx86/lib/64bit
+Can't exec "mpstat": No such file or directory at /software/cadence/installs/MMSIM131/tools.lnx86/spectre/ahdlcmi/bin/getCPUnum.pl line 41.
+/software/cadence/installs/MMSIM131/tools.lnx86/spectre/ahdlcmi/bin/gnumake -j2 -f GNUmakefile
+Cleaning ./obj/optimize/5.0
+rm -f -rf ./obj/optimize/5.0
+Can't exec "mpstat": No such file or directory at /software/cadence/installs/MMSIM131/tools.lnx86/spectre/ahdlcmi/bin/getCPUnum.pl line 41.
+Compiling C file bsource_08102a_func.c (optimize) with -O0
+Compiling C file bsource_08102a_DcFuncDerLoad.c (optimize)
+/software/cadence/installs/MMSIM131/tools.lnx86/spectre/ahdlcmi/bin/64bit/ahdlcc 0 /software/cadence/installs/MMSIM131/tools.lnx86/cdsgcc/gcc/4.4/bin/gcc  -march=k8 -ffast-math -O0 -m64 -DSYSV -DSVR4 -D_REENTRANT -fPIC   -DconfigSPECTRE -I. -I/software/cadence/installs/MMSIM131/tools.lnx86/spectre/ahdlcmi/include -c bsource_08102a_func.c -o obj/optimize/5.0/bsource_08102a_func.o || rm -f -f obj/optimize/5.0/bsource_08102a_func.o
+/software/cadence/installs/MMSIM131/tools.lnx86/spectre/ahdlcmi/bin/64bit/ahdlcc 0 /software/cadence/installs/MMSIM131/tools.lnx86/cdsgcc/gcc/4.4/bin/gcc  -march=k8 -ffast-math -O3 -m64 -DSYSV -DSVR4 -D_REENTRANT -fPIC   -DconfigSPECTRE -I. -I/software/cadence/installs/MMSIM131/tools.lnx86/spectre/ahdlcmi/include -c bsource_08102a_DcFuncDerLoad.c -o obj/optimize/5.0/bsource_08102a_DcFuncDerLoad.o || rm -f -f obj/optimize/5.0/bsource_08102a_DcFuncDerLoad.o
+rm -f -rf bsource_08102a_DcFuncDerLoad.c
+Compiling C file bsource_08102a_DcFuncLoad.c (optimize)
+/software/cadence/installs/MMSIM131/tools.lnx86/spectre/ahdlcmi/bin/64bit/ahdlcc 0 /software/cadence/installs/MMSIM131/tools.lnx86/cdsgcc/gcc/4.4/bin/gcc  -march=k8 -ffast-math -O3 -m64 -DSYSV -DSVR4 -D_REENTRANT -fPIC   -DconfigSPECTRE -I. -I/software/cadence/installs/MMSIM131/tools.lnx86/spectre/ahdlcmi/include -c bsource_08102a_DcFuncLoad.c -o obj/optimize/5.0/bsource_08102a_DcFuncLoad.o || rm -f -f obj/optimize/5.0/bsource_08102a_DcFuncLoad.o
+rm -f -rf bsource_08102a_func.c
+Compiling C file bsource_08102a_TranFuncDerLoad.c (optimize)
+/software/cadence/installs/MMSIM131/tools.lnx86/spectre/ahdlcmi/bin/64bit/ahdlcc 0 /software/cadence/installs/MMSIM131/tools.lnx86/cdsgcc/gcc/4.4/bin/gcc  -march=k8 -ffast-math -O3 -m64 -DSYSV -DSVR4 -D_REENTRANT -fPIC   -DconfigSPECTRE -I. -I/software/cadence/installs/MMSIM131/tools.lnx86/spectre/ahdlcmi/include -c bsource_08102a_TranFuncDerLoad.c -o obj/optimize/5.0/bsource_08102a_TranFuncDerLoad.o || rm -f -f obj/optimize/5.0/bsource_08102a_TranFuncDerLoad.o
+rm -f -rf bsource_08102a_TranFuncDerLoad.c
+Compiling C file bsource_08102a_TranFuncLoad.c (optimize)
+/software/cadence/installs/MMSIM131/tools.lnx86/spectre/ahdlcmi/bin/64bit/ahdlcc 0 /software/cadence/installs/MMSIM131/tools.lnx86/cdsgcc/gcc/4.4/bin/gcc  -march=k8 -ffast-math -O3 -m64 -DSYSV -DSVR4 -D_REENTRANT -fPIC   -DconfigSPECTRE -I. -I/software/cadence/installs/MMSIM131/tools.lnx86/spectre/ahdlcmi/include -c bsource_08102a_TranFuncLoad.c -o obj/optimize/5.0/bsource_08102a_TranFuncLoad.o || rm -f -f obj/optimize/5.0/bsource_08102a_TranFuncLoad.o
+rm -f -rf bsource_08102a_DcFuncLoad.c
+Compiling C file bsource_08102a_HbFuncLoad.c (optimize)
+/software/cadence/installs/MMSIM131/tools.lnx86/spectre/ahdlcmi/bin/64bit/ahdlcc 0 /software/cadence/installs/MMSIM131/tools.lnx86/cdsgcc/gcc/4.4/bin/gcc  -march=k8 -ffast-math -O3 -m64 -DSYSV -DSVR4 -D_REENTRANT -fPIC   -DconfigSPECTRE -I. -I/software/cadence/installs/MMSIM131/tools.lnx86/spectre/ahdlcmi/include -c bsource_08102a_HbFuncLoad.c -o obj/optimize/5.0/bsource_08102a_HbFuncLoad.o || rm -f -f obj/optimize/5.0/bsource_08102a_HbFuncLoad.o
+rm -f -rf bsource_08102a_TranFuncLoad.c
+Compiling C file bsource_08102a_OpPointCalc.c (optimize)
+/software/cadence/installs/MMSIM131/tools.lnx86/spectre/ahdlcmi/bin/64bit/ahdlcc 0 /software/cadence/installs/MMSIM131/tools.lnx86/cdsgcc/gcc/4.4/bin/gcc  -march=k8 -ffast-math -O3 -m64 -DSYSV -DSVR4 -D_REENTRANT -fPIC   -DconfigSPECTRE -I. -I/software/cadence/installs/MMSIM131/tools.lnx86/spectre/ahdlcmi/include -c bsource_08102a_OpPointCalc.c -o obj/optimize/5.0/bsource_08102a_OpPointCalc.o || rm -f -f obj/optimize/5.0/bsource_08102a_OpPointCalc.o
+rm -f -rf bsource_08102a_HbFuncLoad.c
+Compiling C file bsource_08102a_cmi_c.c (optimize) with -O0
+/software/cadence/installs/MMSIM131/tools.lnx86/spectre/ahdlcmi/bin/64bit/ahdlcc 0 /software/cadence/installs/MMSIM131/tools.lnx86/cdsgcc/gcc/4.4/bin/gcc  -march=k8 -ffast-math -O0 -m64 -DSYSV -DSVR4 -D_REENTRANT -fPIC   -DconfigSPECTRE -I. -I/software/cadence/installs/MMSIM131/tools.lnx86/spectre/ahdlcmi/include -I/software/cadence/installs/MMSIM131/tools.lnx86/cmi/include -c bsource_08102a_cmi_c.c -o obj/optimize/5.0/bsource_08102a_cmi_c.o || rm -f -f obj/optimize/5.0/bsource_08102a_cmi_c.o
+rm -f -rf bsource_08102a_OpPointCalc.c
+<stdin>: In function 'bsource_08102a_pDC_Load':
+<stdin>:736:976: warning: passing argument 1 of 'aslDevFillZeorDiagonalElemet' makes pointer from integer without a cast [enabled by default]
+In file included from <stdin>:24:0:
+/software/cadence/installs/MMSIM131/tools.lnx86/spectre/ahdlcmi/include/ahdlDevLibGlobal.h:1983:37: note: expected 'void *' but argument is of type 'long int'
+     ASL_FUNC_DECL_START extern void aslDevFillZeorDiagonalElemet( void *, int, unsigned int, struct ahdlFuncModeParam * );
+                                     ^
+<stdin>: In function 'bsource_08102a_pCompare':
+<stdin>:775:1205: warning: assignment makes integer from pointer without a cast [enabled by default]
+<stdin>:775:894: warning: passing argument 1 of 'memcpy' makes pointer from integer without a cast [enabled by default]
+In file included from /software/cadence/installs/MMSIM131/tools.lnx86/spectre/ahdlcmi/include/ahdlPiCmi.h:5:0,
+                 from /software/cadence/installs/MMSIM131/tools.lnx86/spectre/ahdlcmi/include/ahdlDevLibGlobal.h:81,
+                 from <stdin>:24:
+/usr/include/string.h:46:14: note: expected 'void * __restrict__' but argument is of type 'long int'
+ extern void *memcpy (void *__restrict __dest, const void *__restrict __src,
+              ^
+<stdin>:775:894: warning: passing argument 2 of 'memcpy' makes pointer from integer without a cast [enabled by default]
+In file included from /software/cadence/installs/MMSIM131/tools.lnx86/spectre/ahdlcmi/include/ahdlPiCmi.h:5:0,
+                 from /software/cadence/installs/MMSIM131/tools.lnx86/spectre/ahdlcmi/include/ahdlDevLibGlobal.h:81,
+                 from <stdin>:24:
+/usr/include/string.h:46:14: note: expected 'const void * __restrict__' but argument is of type 'long int'
+ extern void *memcpy (void *__restrict __dest, const void *__restrict __src,
+              ^
+<stdin>:775:1447: warning: assignment makes integer from pointer without a cast [enabled by default]
+<stdin>: In function 'bsource_08102a_pGetMatrixPointers':
+<stdin>:781:2801: warning: assignment makes integer from pointer without a cast [enabled by default]
+<stdin>: In function 'bsource_08102a_pAnalTranLoad':
+<stdin>:828:1938: warning: passing argument 1 of 'aslDevFillZeorDiagonalElemet' makes pointer from integer without a cast [enabled by default]
+In file included from <stdin>:24:0:
+/software/cadence/installs/MMSIM131/tools.lnx86/spectre/ahdlcmi/include/ahdlDevLibGlobal.h:1983:37: note: expected 'void *' but argument is of type 'long int'
+     ASL_FUNC_DECL_START extern void aslDevFillZeorDiagonalElemet( void *, int, unsigned int, struct ahdlFuncModeParam * );
+                                     ^
+<stdin>: In function 'bsource_08102a_pNoiseBindSrcs':
+<stdin>:854:506: warning: passing argument 3 of 'aslDevNoiseBindStartModel' discards 'const' qualifier from pointer target type [enabled by default]
+In file included from <stdin>:24:0:
+/software/cadence/installs/MMSIM131/tools.lnx86/spectre/ahdlcmi/include/ahdlDevLibGlobal.h:1051:37: note: expected 'char *' but argument is of type 'devModelID'
+     ASL_FUNC_DECL_START extern void aslDevNoiseBindStartModel( struct noiseData *, devInstKnot *, char *, char * );
+                                     ^
+<stdin>: In function 'bsource_08102a_pNoiseNameSrcs':
+<stdin>:857:506: warning: passing argument 3 of 'aslDevNoiseNameModel' discards 'const' qualifier from pointer target type [enabled by default]
+In file included from <stdin>:24:0:
+/software/cadence/installs/MMSIM131/tools.lnx86/spectre/ahdlcmi/include/ahdlDevLibGlobal.h:1061:44: note: expected 'char *' but argument is of type 'devModelID'
+     ASL_FUNC_DECL_START extern msgSeverity aslDevNoiseNameModel( struct noiseData *, devInstKnot *, char *, char * );
+                                            ^
+<stdin>: In function 'bsource_08102a_pSaveRestart':
+<stdin>:863:545: warning: passing argument 2 of 'aslDevAvarSR' from incompatible pointer type [enabled by default]
+In file included from <stdin>:24:0:
+/software/cadence/installs/MMSIM131/tools.lnx86/spectre/ahdlcmi/include/ahdlDevLibGlobal.h:1172:43: note: expected 'struct ahdlAnalogVar *' but argument is of type 'char *'
+     ASL_FUNC_DECL_START extern PklError_e aslDevAvarSR( int, struct ahdlAnalogVar *, char *, char *, char *, PklJar_t * );
+                                           ^
+<stdin>: In function 'bsource_08102a_pSaveRestartInst':
+<stdin>:866:547: warning: passing argument 2 of 'aslDevAvarSR' from incompatible pointer type [enabled by default]
+In file included from <stdin>:24:0:
+/software/cadence/installs/MMSIM131/tools.lnx86/spectre/ahdlcmi/include/ahdlDevLibGlobal.h:1172:43: note: expected 'struct ahdlAnalogVar *' but argument is of type 'char *'
+     ASL_FUNC_DECL_START extern PklError_e aslDevAvarSR( int, struct ahdlAnalogVar *, char *, char *, char *, PklJar_t * );
+                                           ^
+rm -f -rf bsource_08102a_cmi_c.c
+/software/cadence/installs/MMSIM131/tools.lnx86/cdsgcc/gcc/4.4/bin/gcc -shared -O3 -m64 -fPIC -o obj/optimize/5.0/bsource_08102a_libahdlcmi.so ./obj/optimize/5.0/bsource_08102a_func.o ./obj/optimize/5.0/bsource_08102a_DcFuncDerLoad.o ./obj/optimize/5.0/bsource_08102a_DcFuncLoad.o ./obj/optimize/5.0/bsource_08102a_TranFuncDerLoad.o ./obj/optimize/5.0/bsource_08102a_TranFuncLoad.o ./obj/optimize/5.0/bsource_08102a_HbFuncLoad.o ./obj/optimize/5.0/bsource_08102a_OpPointCalc.o ./obj/optimize/5.0/bsource_08102a_cmi_c.o  -Wl,-rpath,/usr/lib -Wl,-rpath,/lib -s 
+/usr/bin/ld: skipping incompatible /software/cadence/installs/IC617/tools/bin/../lib/libgcc_s.so when searching for -lgcc_s
+/usr/bin/ld: skipping incompatible /software/cadence/installs/IC617/tools/lib/../lib/libgcc_s.so when searching for -lgcc_s
+/usr/bin/ld: skipping incompatible /software/cadence/installs/IC617/tools/bin/../lib/libgcc_s.so when searching for -lgcc_s
+/usr/bin/ld: skipping incompatible /software/cadence/installs/IC617/tools/lib/../lib/libgcc_s.so when searching for -lgcc_s

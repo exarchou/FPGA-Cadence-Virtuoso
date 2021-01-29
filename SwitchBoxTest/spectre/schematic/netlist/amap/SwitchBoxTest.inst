@@ -1,0 +1,5 @@
+HEADER
+"PSFversion" "1.00"
+"I0n" "switchBox"
+"V6n V5n V4n V3n V2n V1n V0n" "analogLib_vpulse_spectre"
+"R2n R1n R0n" "analogLib_presistor_spectre"
