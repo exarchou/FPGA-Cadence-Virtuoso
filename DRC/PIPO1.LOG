@@ -1,0 +1,69 @@
+********************************************************************************
+Product   : Virtuoso(R) XStream Out
+Program   : @(#)$CDS: strmout version 6.1.7-64b 11/09/2015 12:41 (sjfbm191) $
+          : sub-version  IC6.1.7-64b.78 
+Started at: 14-Jan-2020  10:58:52
+User Name : user27
+Host Name : labd-11
+Directory : /software/cadence/users/user27/Desktop
+CADENCE Design Systems, Inc.
+********************************************************************************
+Info: Cellview Rev Num:99,  Tech Rev Num:59
+
+WARNING (XSTRM-20): Output Stream file '/software/cadence/users/user27/Desktop/myFile/DRC/switchBox.gds' already exists. It will be overwritten.
+INFO (XSTRM-217): Reading the layer map file, /software/cadence/gpdk045_v_4_0/gpdk045/gpdk045.layermap
+INFO (XSTRM-162): You have not used the viaMap option. If the OpenAccess design has native oaVia instances, use the -viaMap option for preserving oaVia instances in a Stream Out - Stream In round trip. Using the -viaMap option improves performance and VM usage of applications using the Streamed-In design.  For details on the viaMap option, refer to the "Design Data Translator's Reference" guide for XStream.
+
+Summary of Options :
+library                                 myLib27
+strmFile                                /software/cadence/users/user27/Desktop/myFile/DRC/switchBox.gds
+topCell                                 switchBox
+view                                    layout
+runDir                                  /software/cadence/users/user27/Desktop/myFile/DRC
+logFile                                 /software/cadence/users/user27/Desktop/myFile/DRC/PIPO1.LOG
+techLib                                 gpdk045
+hierDepth                               32
+maxVertices                             2048
+layerMap                                /software/cadence/gpdk045_v_4_0/gpdk045/gpdk045.layermap
+userSkillFile                           /software/cadence/users/user27/Desktop/myFile/DRC/strmout.il
+labelDepth                              32
+case                                    Preserve
+convertDot                              node
+
+INFO (XSTRM-223): 1. Translating cellView gpdk045/M1_PSUB/layout as STRUCTURE M1_PSUB$$1.
+INFO (XSTRM-223): 2. Translating cellView gpdk045/M1_PO/layout as STRUCTURE M1_PO$$2.
+INFO (XSTRM-223): 3. Translating cellView gpdk045/M2_M1/layout as STRUCTURE M2_M1$$3.
+INFO (XSTRM-223): 4. Translating cellView gpdk045/M2_M1/layout as STRUCTURE M2_M1$$4.
+INFO (XSTRM-223): 5. Translating cellView gpdk045/nmos1v/layout as STRUCTURE nmos1v$$5.
+INFO (XSTRM-223): 6. Translating cellView myLib27/switchBox/layout as STRUCTURE switchBox.
+INFO (XSTRM-180): You have not used the objectMap option. The design has instance(s) of at least one of following OpenAccess objects: oaBlockage, oaBoundary, oaRow, and oaMarker. Any information about these objects will not be translated into the generated stream file. Use the objectMap option to translate/preserve these objects using XStream. For details on the objectMap option, refer to the "Design Data Translator's Reference" guide for XStream.
+WARNING (XSTRM-206): Path length 0.03 at location (3,0) on layer 7 is less than 1/2 of path width 0.12. The path would be written in Stream file as is. To resolve this, fix the reported path in the input design and run the translator again.
+WARNING (XSTRM-206): Path length 0.03 at location (3,2) on layer 7 is less than 1/2 of path width 0.12. The path would be written in Stream file as is. To resolve this, fix the reported path in the input design and run the translator again.
+
+Summary of Objects Translated:
+	Scalar Instances:                       6
+	Array Instances:                        0
+	Polygons:                               0
+	Paths:                                  0
+	Rectangles:                             41
+	Lines:                                  0
+	Arcs:                                   0
+	Donuts:                                 0
+	Dots:                                   0
+	Ellipses:                               0
+	Boundaries:                             0
+	Area Blockages:                         0
+	Layer Blockages:                        0
+	Area Halos:                             0
+	Markers:                                0
+	Rows:                                   0
+	Standard Vias                           9
+	Custom Vias:                            0
+	CdsGen Vias:                            0
+	Pathsegs:                               45
+	Text:                                   11
+	TextDisplay:                            0
+	Cells:                                  6
+
+Elapsed Time: 0.4s   User Time: 0.2s   CPU Time: 0.1s   Peak VM: 4900KB
+INFO (XSTRM-234): Translation completed. '0' error(s) and '3' warning(s) found.

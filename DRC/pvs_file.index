@@ -1,0 +1,63 @@
+"Cadence Directory" internal none /software/cadence/users/user27/Desktop/.cadence/
+"Current Directory" internal none /software/cadence/users/user27/Desktop
+"GUI Flow" internal none virtuoso6
+"GUI Preset" internal none /software/cadence/users/user27/Desktop/myFile/DRC/.preset.autosave
+"Job Signature" internal none IPVS_1578992330_8915
+"PVS Job Mode" internal none drc
+"Run Directory" internal none /software/cadence/users/user27/Desktop/myFile/DRC
+"Technology Mapping File" internal none /software/cadence/gpdk045_v_4_0/pvtech.lib
+"Technology Name" internal none "gpdk045_pvs"
+"Technology Rule File" internal none /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+"Technology RuleSet" internal none "default"
+"PVS Version" internal none 16.10-p006
+"Binary Name" internal none pvsgui
+"PVS Build Date" internal none "Thu Jul 27 18:05:02 PDT 2017"
+"PVS Job Time" internal none 1578992331
+"Cell Tree" output text /software/cadence/users/user27/Desktop/myFile/DRC/cell_tree.txt
+"Control File" input text /software/cadence/users/user27/Desktop/myFile/DRC/pvsdrcctl
+"DFII version" internal none 6.1.7.0
+"Do not check rules files before run" internal none ENABLED
+"Input Layout" input none OA: myLib27 switchBox layout
+"Intermediate GDSII File" output none /software/cadence/users/user27/Desktop/myFile/DRC/switchBox.gds
+"Intermediate GDSII File creation Errors" output none /software/cadence/users/user27/Desktop/myFile/DRC/PIPO1.LOG
+"Intermediate OASIS File creation Errors" output none /software/cadence/users/user27/Desktop/myFile/DRC/PIPO1.LOG
+"Job Signature" internal none IPVS_1578992330_8915
+"Layout Cell Name" internal none switchBox
+"Layout ConvertPin" internal text geometry
+"Layout GDSII" input none /software/cadence/users/user27/Desktop/myFile/DRC/switchBox.gds
+"Layout HierDepth" internal none 32
+"Layout Library Name" internal none myLib27
+"Layout MaxVertices" internal none 2048
+"Layout NoConvertHalfWidthPath" input none nil
+"Layout ReplaceBusBitChar" input none nil
+"Layout Scale" internal none 0.0005
+"Layout TechLib" internal none gpdk045
+"Layout Top Cell" internal none switchBox
+"Layout View Name" internal none layout
+"Output Layout Cellmap I" internal text /software/cadence/users/user27/Desktop/myFile/DRC/lay_cellMap.txt
+"PIPO Log I" log text  /software/cadence/users/user27/Desktop/myFile/DRC/PIPO1.LOG
+"PIPO Output I" internal text  /software/cadence/users/user27/Desktop/myFile/DRC/PIPO1.OUT
+"PIPO Setup File I" internal text  /software/cadence/users/user27/Desktop/myFile/DRC/pipo1.setup
+"PVS Job Log" log text /software/cadence/users/user27/Desktop/myFile/DRC/pvsuidrc.log
+"PVS Job Mode" internal none drc
+"Rule File" input text /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+"Run Directory" internal none /software/cadence/users/user27/Desktop/myFile/DRC
+"TTE mode" internal none ENABLED
+"PVS Version" internal none 16.10-p006
+"Binary Name" internal none pvsvirt
+"PVS Build Date" internal none "Thu Jul 27 18:05:02 PDT 2017"
+"PVS Job Time" internal none 1578992333
+"ASCII DRC Report Database" output rdb /software/cadence/users/user27/Desktop/myFile/DRC/switchBox.drc_errors.ascii
+"Cell Tree" output text /software/cadence/users/user27/Desktop/myFile/DRC/cell_tree.txt
+"DRC Summary" output text /software/cadence/users/user27/Desktop/myFile/DRC/switchBox.sum
+"Layout GDSII" input none /software/cadence/users/user27/Desktop/myFile/DRC/switchBox.gds
+"PVS Job Mode" internal none drc
+"Report MaxResults" internal none 1000
+"Rule File" input text /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+"Run Directory" internal none /software/cadence/users/user27/Desktop/myFile/DRC/
+"TTE mode" internal none ENABLED
+"UI Data" internal none ENABLED
+"PVS Version" internal none 16.10-p006
+"Binary Name" internal none pvs
+"PVS Build Date" internal none "Thu Jul 27 18:05:02 PDT 2017"
+"PVS Job Time" internal none 1578992333

@@ -1,0 +1,2289 @@
+switchBox 2000
+offgrid_check
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+Grid violation
+ortho_45_check
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+Orthogonal and 45 degree violation
+acute_check
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+Acute angle  violation
+soft_check_3
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+soft_check_3: ptap missing stamped connections from pdiff_conn
+soft_check_6
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+soft_check_6: psubstrate missing stamped connections from ptap
+soft_check_9
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+soft_check_9: ntap missing stamped connections from ndiff_conn
+soft_check_12
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+soft_check_12: nwell_conn missing stamped connections from ntap
+soft_check_15
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+soft_check_15: nb_tap missing stamped connections from nwell_conn
+soft_check_18
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+soft_check_18: Nburied missing stamped connections from nb_tap
+NBL.W.1
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NBL.W.1: Minimum Nburied Width >= 0.8 um
+NBL.E.1
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NBL.E.1: Minimum Nburied to Nwell enclosure >= 0.2 um
+NBL.SP.1
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NBL.SP.1: Minimum Nburied to Nburied spacing >= 2.0 um
+NBL.SE.1
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NBL.SE.1: Minimum Nburied to non-related Nwell spacing >= 2.2 um
+NBL.SE.2
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NBL.SE.2: Minimum Nburied to non-related Oxide spacing >= 1.2 um
+NBL.X.1
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NBL.X.1: Nburied must have an Nwell isolation ring
+NBL.SE.3
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NBL.SE.3: Minimum Nwell ring (on Nburied) to P+ Active spacing >= 0.09 um
+NBL.SE.4
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NBL.SE.4: Minimum Nwell ring (on Nburied) to N+ Active spacing >= 0.09 um
+NW.SP.2
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NW.SP.2: Minimum Nwell spacing to Nwell (different potential) >= 0.6 um
+NW.SP.2_2
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NW.SP.2: Minimum Nwell spacing to Nwell (different potential) >= 0.6 um
+NW.W.1
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NW.W.1: Minimum Nwell Width >= 0.3 um
+NW.SE.2
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NW.SE.2: Minimum Nwell spacing to P+ Active Area >= 0.16 um
+NW.SE.1
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NW.SE.1: Minimum Nwell spacing to N+ Active Area >= 0.16 um
+NW.SE.3
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NW.SE.3: Minimum Nwell spacing to N+ 1.8V Active Area >= 0.24 um
+NW.SE.4
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NW.SE.4: Minimum Nwell spacing to P+ 1.8V Active Area >= 0.24 um
+NW.E.1
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NW.E.1: Minimum Nwell enclosure of N+ Active Area >= 0.06 um
+NW.E.2
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NW.E.2: Minimum Nwell enclosure of P+ Active Area >= 0.06 um
+NW.E.3
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NW.E.3: Minimum Nwell enclosure of N+ 1.8V Active Area >= 0.24 um
+NW.E.4
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NW.E.4: Minimum Nwell enclosure of P+ 1.8V Active Area >= 0.24 um
+NW.A.1
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NW.A.1: Minimum Nwell area >= 0.18 um
+NW.EA.1
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NW.EA.1: Minimum Nwell enclosed area >= 0.18 um
+NWR.SE.1
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NWR.SE.1: Minimum Resist Protect Oxide to Nwell spacing >= 0.16 um
+NWR.E.1
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NWR.E.1: Minimum Active Area to Nwell (in resistor) enclosure >= 0.6 um
+NWR.E.2
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NWR.E.2: Minimum salicided Nwell to Contact enclosure >= 0.16 um
+NWR.X.1
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NWR.X.1: Thick Oxide is NOT allowed over Nwell resistor
+NWR.O.1
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NWR.O.1: Minimum N+ Implant to Resist Protect Oxide overlap >= 0.22 um
+OXIDE.W.1
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+OXIDE.W.1: Minimum Active Area width >= 0.05 um
+OXIDE.W.2.1.1
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+OXIDE.W.2.1.1: Minimum 1.1V N-channel gate width >= 0.12 um
+OXIDE.W.2.1.2
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+OXIDE.W.2.1.2: Minimum 1.8V N-channel gate width >= 0.32 um
+OXIDE.W.2.2.1
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+OXIDE.W.2.2.1: Minimum 1.1V P-channel gate width >= 0.12 um
+OXIDE.W.2.2.2
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+OXIDE.W.2.2.2: Minimum 1.8V P-channel gate width >= 0.32 um
+OXIDE.W.3
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+OXIDE.W.3: Minimum Active Area bent 45 degress width >= 0.06 um
+OXIDE.SP.1
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+OXIDE.SP.1: Minimum N+ Active Area to N+ Active Area spacing >= 0.08 um
+OXIDE.SP.2
+0 0 2 Jan 14 10:58:53 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+OXIDE.SP.2: Minimum P+ Active Area to P+ Active Area spacing >= 0.08 um
+OXIDE.SP.3
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+OXIDE.SP.3: Minimum N+ Active Area to P+ Active Area spacing >= 0.1 um
+OXIDE.SE.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+OXIDE.SE.1: Minimum Active Area to Thick Active Area spacing >= 0.18 um
+OXIDE.SP.4
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+OXIDE.SP.4: Minimum Active Area bent 45 degress to Active Area spacing >= 0.1 um
+OXIDE.A.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+OXIDE.A.1: Minimum area for Active Area >= 0.035 um
+OXIDE.EA.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+OXIDE.EA.1: Minimum Active Area enclosed area >= 0.04 um
+OXIDE.L.1_OXIDE.L.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+OXIDE.L.1_OXIDE.L.2: Maximum Oxide length between two contacts (when the Oxide width is <= 0.18um) must be <= 12.0um and Maximum Oxide length between one contact and the end of the Oxide line (when the Oxide width is <= 0.18um) must be <= 6.0um
+OXIDE.X.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+OXIDE.X.1: Oxide must be covered by N+ Implant or Nzvt or Salicide Block
+OXIDER.SE.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+OXIDER.SE.2: Minimum Active Resistor to N+ or P+ Implant spacing >= 0.16 um
+OXIDER.SE.2_2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+OXIDER.SE.2: Minimum Active Resistor to N+ or P+ Implant spacing >= 0.16 um
+OXIDER.E.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+OXIDER.E.1: Minimum Salicide Block to Active Resistor enclosure >= 0.12 um
+OXIDER.X.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+OXIDER.X.1: Oxide resistors must have N+ or P+ Implant
+OXIDETHK.W.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+OXIDETHK.W.1: Minimum Thick Active Area width >= 0.35 um
+OXIDETHK.SP.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+OXIDETHK.SP.1: Minimum Thick Active Area to Thick Active Area spacing >= 0.16 um
+OXIDETHK.SP.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+OXIDETHK.SP.2: Minimum Thick Active Area bent 45 degrees to Thick Active Area spacing >= 0.32 um
+OXIDETHK.SE.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+OXIDETHK.SE.1: Minimum N+ 1.8V Active Area to 1.8V N+ Active Area spacing >= 0.1 um
+OXIDETHK.SE.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+OXIDETHK.SE.2: Minimum P+ 1.8V Active Area to 1.8V P+ Active Area spacing >= 0.1 um
+OXIDETHK.SE.3
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+OXIDETHK.SE.3: Minimum N+ 1.8V Active Area to 1.8V P+ Active Area spacing >= 0.12 um
+OXIDETHK.E.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+OXIDETHK.E.1: Minimum Thick Active Area to Active Area enclosure >= 0.16 um
+OXIDETHK.SE.5
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+OXIDETHK.SE.5: Minimum Thick Active Area to 1.1V Poly gate spacing >= 0.18 um
+OXIDETHK.E.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+OXIDETHK.E.2: Minimum Thick Active Area to Thick Poly gate enclosure >= 0.18 um
+NHVT.W.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NHVT.W.1: Minimum Nhvt width >= 0.12
+NHVT.SP.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NHVT.SP.1: Minimum Nhvt spacing >= 0.12
+NHVT.X.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NHVT.X.2: Nhvt is NOT allowed on Nwell
+NHVT.X.3
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NHVT.X.3: Nhvt is NOT allowed on P+ Oxide
+NHVT.X.4
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NHVT.X.4: Nhvt is NOT allowed on Nzvt
+PHVT.W.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+PHVT.W.1: Minimum Phvt width >= 0.12
+PHVT.SP.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+PHVT.SP.1: Minimum Phvt spacing >= 0.12
+PHVT.X.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+PHVT.X.2: Phvt is NOT allowed outside Nwell
+PHVT.X.3
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+PHVT.X.3: Phvt is NOT allowed on N+ Oxide
+PHVT.X.4
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+PHVT.X.4: Phvt is NOT allowed on Nzvt
+NLVT.W.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NLVT.W.1: Minimum Nlvt width >= 0.12
+NLVT.SP.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NLVT.SP.1: Minimum Nlvt spacing >= 0.12
+NLVT.X.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NLVT.X.2: Nlvt is NOT allowed on Nwell
+NLVT.X.3
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NLVT.X.3: Nlvt is NOT allowed on P+ Oxide
+NLVT.X.4
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NLVT.X.4: Nlvt is NOT allowed on Nzvt
+PLVT.W.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+PLVT.W.1: Minimum Plvt width >= 0.12
+PLVT.SP.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+PLVT.SP.1: Minimum Plvt spacing >= 0.12
+PLVT.X.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+PLVT.X.2: Plvt is NOT allowed outside Nwell
+PLVT.X.3
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+PLVT.X.3: Plvt is NOT allowed on N+ Oxide
+PLVT.X.4
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+PLVT.X.4: Plvt is NOT allowed on Nzvt
+NZVT.W.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NZVT.W.1: Minimum Nzvt width >= 0.35 um
+NZVT.SP.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NZVT.SP.1: Minimum Nzvt to Nzvt spacing >= 0.3 um
+NZVT.O.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NZVT.O.1: Minimum and maximum Nzvt to Active Area overlap == 0.16 um
+NZVT.SE.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NZVT.SE.1: Minimum Nzvt to Active spacing >= 0.18 um
+NZVT.SE.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NZVT.SE.2: Minimum Nzvt to Nwell spacing >= 0.6 um
+NZVT.E.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NZVT.E.1: Minimum N+ Poly gate end cap to Native Active Area enclosure >= 0.1 um
+NZVT.L.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NZVT.L.1: Minimum Native device Poly gate length >= 0.30 um
+NZVT.W.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NZVT.W.2: Minimum Native device Poly gate width >= 0.50 um
+NZVT.X.3
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NZVT.X.3: P+ Oxide is NOT allowed in Nzvt
+NZVT.X.4
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NZVT.X.4: Only one Oxide region may be in an Nzvt region
+POLY.W.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+POLY.W.1: Minimum 1.1V N-channel gate length >= 0.045 um
+POLY.W.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+POLY.W.2: Minimum 1.1V P-channel gate length >= 0.045 um
+POLY.W.3
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+POLY.W.3: Minimum 1.8V N-channel gate length >= 0.15 um
+POLY.W.4
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+POLY.W.4: Minimum 1.8V P-channel gate length >= 0.15 um
+POLY.W.5
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+POLY.W.5: Minimum Poly interconnect width >= 0.045 um
+POLY.SP.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+POLY.SP.1: Minimum Poly resistor space >= 0.3 um
+POLY.SP.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+POLY.SP.2: Minimum Poly gate space  >= 0.06 um
+POLY.SP.3
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+POLY.SP.3: Minimum Poly interconnect space >= 0.06 um
+POLY.SP.4
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+POLY.SP.4: Minimum gate space in thick active >= 0.20 um
+POLY.E.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+POLY.E.1: Minimum N-channel gate extension beyond Active Area >= 0.1 um
+POLY.E.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+POLY.E.2: Minimum P-channel gate extension beyond Active Area >= 0.1 um
+POLY.SE.1_POLY.SE.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+POLY.SE.1_POLY.SE.2: Minimum Poly interconnect to related Active Area space >= 0.05 um
+POLY.E.3
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+POLY.E.3: Minimum Active Area (source/drain) to gate enclosure >= 0.1 um
+POLY.W.6
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+POLY.W.6: Minimum bent Poly width >= 0.1 um
+POLY.SP.5
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+POLY.SP.5: Minimum bent Poly space >= 0.1 um
+POLY.X.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+POLY.X.1: Poly gate cannot have bends
+POLY.X.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+POLY.X.2: Poly resistor cannot have bends
+POLY.SE.3
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+POLY.SE.3: Maximum Poly segment length (width < 0.14) between two contacts >= 12.0 um
+POLY.A.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+POLY.A.1: Minimum area for Poly interconnect >= 0.02 um
+POLY.EA.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+POLY.EA.1: Minimum enclosed area for Poly interconnect >= 0.05 um
+POLYR.E.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+POLYR.E.1: Minimum Salicide Block to Poly resistor enclosure >= 0.14 um
+POLYR.E.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+POLYR.E.2: Minimum N+ Implant to Poly used in resistor enclosure >= 0.07 um
+POLYR.E.3
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+POLYR.E.3: Minimum P+ Implant to Poly used in resistor enclosure >= 0.07 um
+POLYR.SE.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+POLYR.SE.2: Minimum Poly resistor to other Implant spacing >= 0.15 um
+POLYR.SE.2_2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+POLYR.SE.2: Minimum Poly resistor to other Implant spacing >= 0.15 um
+POLYR.SE.2_3
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+POLYR.SE.2: Minimum Poly resistor to other Implant spacing >= 0.15 um
+POLYR.X.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+POLYR.X.1: Poly resistors must have N+ or P+ Implant
+NIMP.W.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NIMP.W.1: Minimum N+ Implant width >= 0.12 um
+NIMP.SP.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NIMP.SP.1: Minimum N+ Implant space >= 0.12 um
+NIMP.E.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NIMP.E.1: Minimum N+ Implant to Active Area enclosure >= 0.07 um
+NIMP.O.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NIMP.O.1: Minimum N+ Implant to Active Area overlap >= 0.08 um
+NIMP.SE.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NIMP.SE.1: Minimum N+ Implant to P+ Active Area (inside Nwell) spacing >= 0.08 um
+NIMP.E.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NIMP.E.2: Minimum N+ Implant to Active Area (Nwell tie) enclosure >= 0.01 um
+NIMP.E.3
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NIMP.E.3: Minimum N+ Implant to gate side enclosure >= 0.1 um
+NIMP.E.4
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NIMP.E.4: Minimum N+ Implant to gate (endcap) enclosure >= 0.1 um
+NIMP.SE.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NIMP.SE.2: Minimum N+ Implant to P+ Active Area (substrate tie) spacing >= 0.02 um
+NIMP.A.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NIMP.A.1: Minimum area for N+ Implant >= 0.018 um
+NIMP.EA.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NIMP.EA.1: Minimum N+ Implant ring enclosed area  >= 0.04 um
+NIMP.SE.3
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NIMP.SE.3: Minimum N+ Implant to P+ gate side (butted Implant) spacing >= 0.1 um
+NIMP.X.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NIMP.X.1: Nimp is NOT allowed over Pimp
+PIMP.W.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+PIMP.W.1: Minimum P+ Implant width >= 0.12 um
+PIMP.SP.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+PIMP.SP.1: Minimum P+ Implant space >= 0.12 um
+PIMP.E.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+PIMP.E.1: Minimum P+ Implant to Active Area enclosure >= 0.07 um
+PIMP.O.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+PIMP.O.1: Minimum P+ Implant to Active Area overlap >= 0.08 um
+PIMP.SE.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+PIMP.SE.1: Minimum P+ Implant to N+ Active Area (outside Nwell) spacing >= 0.08 um
+PIMP.E.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+PIMP.E.2: Minimum P+ Implant to Active Area (substrate tie) enclosure >= 0.01 um
+PIMP.E.3
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+PIMP.E.3: Minimum P+ Implant to gate side enclosure >= 0.1 um
+PIMP.E.4
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+PIMP.E.4: Minimum P+ Implant to gate (endcap) enclosure >= 0.1 um
+PIMP.SE.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+PIMP.SE.2: Minimum P+ Implant to N+ Active Area (Nwell tie) spacing >= 0.02 um
+PIMP.A.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+PIMP.A.1: Minimum area for P+ Implant >= 0.018 um
+PIMP.EA.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+PIMP.EA.1: Minimum P+ Implant ring enclosed area  >= 0.04 um
+PIMP.SE.3
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+PIMP.SE.3: Minimum P+ Implant to N+ gate side (butted Implant) spacing >= 0.1 um
+CONT.W.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+CONT.W.1: Maximum and minimum Contact width/length == 0.06 um
+CONT.SP.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+CONT.SP.1: Minimum Contact to Contact spacing >= 0.06 um
+CONT.SP.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+CONT.SP.2: Space to three adjacent Contacts ( < 0.10um apart) >= 0.08 um
+CONT.SE.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+CONT.SE.1: Minimum Contact on Active Area to gate spacing >= 0.05 um
+CONT.SE.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+CONT.SE.2: Minimum Contact on 1.8V Active Area to gate spacing >= 0.06 um
+CONT.SE.3
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+CONT.SE.3: Minimum gate Contact on Active Area spacing >= 0.06 um
+CONT.SE.4
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+CONT.SE.4: Minimum 1.8V gate Contact on Active Area spacing >= 0.07 um
+CONT.E.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+CONT.E.1: Minimum Active Area to Contact enclosure >= 0.03 um
+CONT.E.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+CONT.E.2: Minimum Poly to Contact enclosure >= 0.02 um
+CONT.E.3
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+CONT.E.3: Minimum Poly to Contact enclosure on at least two opposite sides >= 0.03 um
+CONT.E.4
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+CONT.E.4: Minimum N+/P+ Implant on Active Area to Contact enclosure >= 0.03 um
+CONT.E.4_2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+CONT.E.4: Minimum N+/P+ Implant on Active Area to Contact enclosure >= 0.03 um
+CONT.X.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+CONT.X.1: Cont on gate is NOT allowed
+CONT.X.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+CONT.X.2: Nimp edge is NOT allowed on Oxide Cont
+CONT.X.2_2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+CONT.X.2: Pimp edge is NOT allowed on Oxide Cont
+CONT.X.3
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+CONT.X.3: CONT must be covered by Oxide or Poly
+SIPROT.W.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+SIPROT.W.1: Minimum Salicide Block width >= 0.22 um
+SIPROT.SP.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+SIPROT.SP.1: Minimum Salicide Block space >= 0.22 um
+SIPROT.SE.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+SIPROT.SE.1: Minimum Salicide Block to Contact spacing >= 0.12 um
+SIPROT.SE.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+SIPROT.SE.2: Minimum Salicide Block to unrelated Active Area spacing >= 0.12 um
+SIPROT.SE.3
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+SIPROT.SE.3: Minimum Salicide Block to gate spacing >= 0.22 um
+SIPROT.E.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+SIPROT.E.2: Minimum Active Area to Salicide Block enclosure >= 0.12 um
+SIPROT.E.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+SIPROT.E.1: Minimum Salicide Block to Active Area enclosure >= 0.12 um
+SIPROT.E.3
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+SIPROT.E.3: Minimum Salicide Block to Poly (on field) enclosure >= 0.14 um
+SIPROT.A.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+SIPROT.A.1: Minimum Salicide Block area >= 0.6 um
+SIPROT.SE.4
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+SIPROT.SE.4: Minimum Salicide Block to Poly (on field) spacing >= 0.18 um
+SIPROT.EA.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+SIPROT.EA.1: Minimum Salicide Block enclosed area >= 0.6 um
+METAL2.E.1_METAL2.E.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL2.E.1_METAL2.E.2: Metal2 Enc 0.005 & 0.03
+METAL3.E.1_METAL3.E.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL3.E.1_METAL3.E.2: Metal3 Enc 0.005 & 0.03
+METAL4.E.1_METAL4.E.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL4.E.1_METAL4.E.2: Metal4 Enc 0.005 & 0.03
+METAL5.E.1_METAL5.E.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL5.E.1_METAL5.E.2: Metal5 Enc 0.005 & 0.03
+METAL6.E.1_METAL6.E.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL6.E.1_METAL6.E.2: Metal6 Enc 0.005 & 0.03
+METAL7.E.1_METAL7.E.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL7.E.1_METAL7.E.2: Metal7 Enc 0.005 & 0.03
+METAL8.E.1_METAL8.E.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL8.E.1_METAL8.E.2: Metal8 Enc 0.005 & 0.03
+METAL9.E.1_METAL9.E.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL9.E.1_METAL9.E.2: Metal9 Enc 0.005 & 0.03
+METAL10.E.1_METAL10.E.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL10.E.1_METAL10.E.2: Metal10 Enc 0.005 & 0.03
+METAL11.E.1_METAL11.E.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL11.E.1_METAL11.E.2: Metal11 Enc 0.005 & 0.03
+METAL1.E.1_METAL1.E.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL1.E.1_METAL1.E.2: Metal1 Enc 0 & 0.03
+METAL1.W.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL1.W.1: Metal1 width must be >= 0.06 um
+METAL2.W.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL2.W.1: Metal2 width must be >= 0.08 um
+METAL3.W.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL3.W.1: Metal3 width must be >= 0.08 um
+METAL4.W.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL4.W.1: Metal4 width must be >= 0.08 um
+METAL5.W.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL5.W.1: Metal5 width must be >= 0.08 um
+METAL6.W.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL6.W.1: Metal6 width must be >= 0.08 um
+METAL7.W.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL7.W.1: Metal7 width must be >= 0.08 um
+METAL8.W.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL8.W.1: Metal8 width must be >= 0.08 um
+METAL9.W.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL9.W.1: Metal9 width must be >= 0.08 um
+METAL10.W.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL10.W.1: Metal10 width must be >= 0.22 um
+METAL11.W.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL11.W.1: Metal11 width must be >= 0.22 um
+METAL1.W.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL1.W.2: Metal1 width must be <= 6.0 um
+METAL2.W.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL2.W.2: Metal2 width must be <= 6.0 um
+METAL3.W.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL3.W.2: Metal3 width must be <= 6.0 um
+METAL4.W.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL4.W.2: Metal4 width must be <= 6.0 um
+METAL5.W.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL5.W.2: Metal5 width must be <= 6.0 um
+METAL6.W.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL6.W.2: Metal6 width must be <= 6.0 um
+METAL7.W.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL7.W.2: Metal7 width must be <= 6.0 um
+METAL8.W.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL8.W.2: Metal8 width must be <= 6.0 um
+METAL9.W.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL9.W.2: Metal9 width must be <= 6.0 um
+METAL10.W.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL10.W.2: Metal10 width must be <= 6.0 um
+METAL11.W.2
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL11.W.2: Metal11 width must be <= 6.0 um
+METAL1.SP.1.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL1.SP.1.1: Metal1 to Metal1 spacing must be >= 0.06 um
+METAL2.SP.1.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL2.SP.1.1: Metal2 to Metal2 spacing must be >= 0.07 um
+METAL3.SP.1.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL3.SP.1.1: Metal3 to Metal3 spacing must be >= 0.07 um
+METAL4.SP.1.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL4.SP.1.1: Metal4 to Metal4 spacing must be >= 0.07 um
+METAL5.SP.1.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL5.SP.1.1: Metal5 to Metal5 spacing must be >= 0.07 um
+METAL6.SP.1.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL6.SP.1.1: Metal6 to Metal6 spacing must be >= 0.07 um
+METAL7.SP.1.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL7.SP.1.1: Metal7 to Metal7 spacing must be >= 0.07 um
+METAL8.SP.1.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL8.SP.1.1: Metal8 to Metal8 spacing must be >= 0.07 um
+METAL9.SP.1.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL9.SP.1.1: Metal9 to Metal9 spacing must be >= 0.07 um
+METAL10.SP.1.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL10.SP.1.1: Metal10 to Metal10 spacing must be >= 0.20 um
+METAL11.SP.1.1
+0 0 2 Jan 14 10:58:54 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL11.SP.1.1: Metal11 to Metal11 spacing must be >= 0.20 um
+METAL1.SP.1.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL1.SP.1.2: Metal1 to Metal1 spacing must be >= 0.1 um
+METAL2.SP.1.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL2.SP.1.2: Metal2 to Metal2 spacing must be >= 0.15 um
+METAL3.SP.1.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL3.SP.1.2: Metal3 to Metal3 spacing must be >= 0.15 um
+METAL4.SP.1.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL4.SP.1.2: Metal4 to Metal4 spacing must be >= 0.15 um
+METAL5.SP.1.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL5.SP.1.2: Metal5 to Metal5 spacing must be >= 0.15 um
+METAL6.SP.1.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL6.SP.1.2: Metal6 to Metal6 spacing must be >= 0.15 um
+METAL7.SP.1.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL7.SP.1.2: Metal7 to Metal7 spacing must be >= 0.15 um
+METAL8.SP.1.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL8.SP.1.2: Metal8 to Metal8 spacing must be >= 0.15 um
+METAL9.SP.1.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL9.SP.1.2: Metal9 to Metal9 spacing must be >= 0.15 um
+METAL1.SP.1.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL1.SP.1.3: Metal1 to Metal1 spacing must be >= 0.25 um
+METAL2.SP.1.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL2.SP.1.3: Metal2 to Metal2 spacing must be >= 0.25 um
+METAL3.SP.1.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL3.SP.1.3: Metal3 to Metal3 spacing must be >= 0.25 um
+METAL4.SP.1.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL4.SP.1.3: Metal4 to Metal4 spacing must be >= 0.25 um
+METAL5.SP.1.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL5.SP.1.3: Metal5 to Metal5 spacing must be >= 0.25 um
+METAL6.SP.1.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL6.SP.1.3: Metal6 to Metal6 spacing must be >= 0.25 um
+METAL7.SP.1.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL7.SP.1.3: Metal7 to Metal7 spacing must be >= 0.25 um
+METAL8.SP.1.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL8.SP.1.3: Metal8 to Metal8 spacing must be >= 0.25 um
+METAL9.SP.1.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL9.SP.1.3: Metal9 to Metal9 spacing must be >= 0.25 um
+METAL10.SP.1.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL10.SP.1.2: Metal10 to Metal10 spacing must be >= 0.35 um
+METAL11.SP.1.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL11.SP.1.2: Metal11 to Metal11 spacing must be >= 0.35 um
+METAL1.SP.1.4
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL1.SP.1.4: Metal1 to Metal1 spacing must be >= 0.45 um
+METAL2.SP.1.4
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL2.SP.1.4: Metal2 to Metal2 spacing must be >= 0.45 um
+METAL3.SP.1.4
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL3.SP.1.4: Metal3 to Metal3 spacing must be >= 0.45 um
+METAL4.SP.1.4
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL4.SP.1.4: Metal4 to Metal4 spacing must be >= 0.45 um
+METAL5.SP.1.4
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL5.SP.1.4: Metal5 to Metal5 spacing must be >= 0.45 um
+METAL6.SP.1.4
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL6.SP.1.4: Metal6 to Metal6 spacing must be >= 0.45 um
+METAL7.SP.1.4
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL7.SP.1.4: Metal7 to Metal7 spacing must be >= 0.45 um
+METAL8.SP.1.4
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL8.SP.1.4: Metal8 to Metal8 spacing must be >= 0.45 um
+METAL9.SP.1.4
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL9.SP.1.4: Metal9 to Metal9 spacing must be >= 0.45 um
+METAL10.SP.1.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL10.SP.1.3: Metal10 to Metal10 spacing must be >= 0.45 um
+METAL11.SP.1.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL11.SP.1.3: Metal11 to Metal11 spacing must be >= 0.45 um
+METAL1.SP.1.5
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL1.SP.1.5: Metal1 to Metal1 spacing must be >= 0.75 um
+METAL2.SP.1.5
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL2.SP.1.5: Metal2 to Metal2 spacing must be >= 0.75 um
+METAL3.SP.1.5
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL3.SP.1.5: Metal3 to Metal3 spacing must be >= 0.75 um
+METAL4.SP.1.5
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL4.SP.1.5: Metal4 to Metal4 spacing must be >= 0.75 um
+METAL5.SP.1.5
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL5.SP.1.5: Metal5 to Metal5 spacing must be >= 0.75 um
+METAL6.SP.1.5
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL6.SP.1.5: Metal6 to Metal6 spacing must be >= 0.75 um
+METAL7.SP.1.5
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL7.SP.1.5: Metal7 to Metal7 spacing must be >= 0.75 um
+METAL8.SP.1.5
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL8.SP.1.5: Metal8 to Metal8 spacing must be >= 0.75 um
+METAL9.SP.1.5
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL9.SP.1.5: Metal9 to Metal9 spacing must be >= 0.75 um
+METAL10.SP.1.4
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL10.SP.1.4: Metal10 to Metal10 spacing must be >= 0.75 um
+METAL11.SP.1.4
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL11.SP.1.4: Metal11 to Metal11 spacing must be >= 0.75 um
+METAL1.SP.1.6
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL1.SP.1.6: Metal1 to Metal1 spacing must be >= 1.25 um
+METAL2.SP.1.6
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL2.SP.1.6: Metal2 to Metal2 spacing must be >= 1.25 um
+METAL3.SP.1.6
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL3.SP.1.6: Metal3 to Metal3 spacing must be >= 1.25 um
+METAL4.SP.1.6
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL4.SP.1.6: Metal4 to Metal4 spacing must be >= 1.25 um
+METAL5.SP.1.6
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL5.SP.1.6: Metal5 to Metal5 spacing must be >= 1.25 um
+METAL6.SP.1.6
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL6.SP.1.6: Metal6 to Metal6 spacing must be >= 1.25 um
+METAL7.SP.1.6
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL7.SP.1.6: Metal7 to Metal7 spacing must be >= 1.25 um
+METAL8.SP.1.6
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL8.SP.1.6: Metal8 to Metal8 spacing must be >= 1.25 um
+METAL9.SP.1.6
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL9.SP.1.6: Metal9 to Metal9 spacing must be >= 1.25 um
+METAL10.SP.1.5
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL10.SP.1.5: Metal10 to Metal10 spacing must be >= 1.25 um
+METAL11.SP.1.5
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL11.SP.1.5: Metal11 to Metal11 spacing must be >= 1.25 um
+METAL1.L.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL1.L.1: Metal1 non-90 degree segments must be >= 0.1 um
+METAL2.L.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL2.L.1: Metal2 non-90 degree segments must be >= 0.1 um
+METAL3.L.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL3.L.1: Metal3 non-90 degree segments must be >= 0.1 um
+METAL4.L.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL4.L.1: Metal4 non-90 degree segments must be >= 0.1 um
+METAL5.L.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL5.L.1: Metal5 non-90 degree segments must be >= 0.1 um
+METAL6.L.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL6.L.1: Metal6 non-90 degree segments must be >= 0.1 um
+METAL7.L.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL7.L.1: Metal7 non-90 degree segments must be >= 0.1 um
+METAL8.L.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL8.L.1: Metal8 non-90 degree segments must be >= 0.1 um
+METAL9.L.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL9.L.1: Metal9 non-90 degree segments must be >= 0.1 um
+METAL1.SP.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL1.SP.2: Metal1 to bent Metal1 spacing must be >= 0.1 um
+METAL1.W.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL1.W.3: Bent Metal1 (45 degree angle) width must be >= 0.07
+METAL2.SP.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL2.SP.2: Metal2 to bent Metal2 spacing must be >= 0.1 um
+METAL2.W.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL2.W.3: Bent Metal2 (45 degree angle) width must be >= 0.09
+METAL3.SP.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL3.SP.2: Metal3 to bent Metal3 spacing must be >= 0.1 um
+METAL3.W.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL3.W.3: Bent Metal3 (45 degree angle) width must be >= 0.09
+METAL4.SP.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL4.SP.2: Metal4 to bent Metal4 spacing must be >= 0.1 um
+METAL4.W.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL4.W.3: Bent Metal4 (45 degree angle) width must be >= 0.09
+METAL5.SP.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL5.SP.2: Metal5 to bent Metal5 spacing must be >= 0.1 um
+METAL5.W.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL5.W.3: Bent Metal5 (45 degree angle) width must be >= 0.09
+METAL6.SP.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL6.SP.2: Metal6 to bent Metal6 spacing must be >= 0.1 um
+METAL6.W.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL6.W.3: Bent Metal6 (45 degree angle) width must be >= 0.09
+METAL7.SP.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL7.SP.2: Metal7 to bent Metal7 spacing must be >= 0.1 um
+METAL7.W.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL7.W.3: Bent Metal7 (45 degree angle) width must be >= 0.09
+METAL8.SP.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL8.SP.2: Metal8 to bent Metal8 spacing must be >= 0.1 um
+METAL8.W.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL8.W.3: Bent Metal8 (45 degree angle) width must be >= 0.09
+METAL9.SP.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL9.SP.2: Metal9 to bent Metal9 spacing must be >= 0.1 um
+METAL9.W.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL9.W.3: Bent Metal9 (45 degree angle) width must be >= 0.09
+METAL1.SP.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL1.SP.3: Min End Of Line Spacing >= 0.08
+METAL2.SP.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL2.SP.3: Min End Of Line Spacing >= 0.08
+METAL3.SP.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL3.SP.3: Min End Of Line Spacing >= 0.08
+METAL4.SP.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL4.SP.3: Min End Of Line Spacing >= 0.08
+METAL5.SP.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL5.SP.3: Min End Of Line Spacing >= 0.08
+METAL6.SP.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL6.SP.3: Min End Of Line Spacing >= 0.08
+METAL7.SP.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL7.SP.3: Min End Of Line Spacing >= 0.08
+METAL8.SP.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL8.SP.3: Min End Of Line Spacing >= 0.08
+METAL9.SP.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL9.SP.3: Min End Of Line Spacing >= 0.08
+METAL1.A.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL1.A.1: Metal1 area must be >= 0.02 um
+METAL2.A.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL2.A.1: Metal2 area must be >= 0.02 um
+METAL3.A.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL3.A.1: Metal3 area must be >= 0.02 um
+METAL4.A.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL4.A.1: Metal4 area must be >= 0.02 um
+METAL5.A.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL5.A.1: Metal5 area must be >= 0.02 um
+METAL6.A.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL6.A.1: Metal6 area must be >= 0.02 um
+METAL7.A.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL7.A.1: Metal7 area must be >= 0.02 um
+METAL8.A.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL8.A.1: Metal8 area must be >= 0.02 um
+METAL9.A.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL9.A.1: Metal9 area must be >= 0.02 um
+METAL10.A.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL10.A.1: Metal10 area must be >= 0.10 um
+METAL11.A.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL11.A.1: Metal11 area must be >= 0.10 um
+METAL1.EA.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL1.EA.1: Metal1 enclosed area must be >= 0.05 um
+METAL2.EA.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL2.EA.1: Metal2 enclosed area must be >= 0.05 um
+METAL3.EA.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL3.EA.1: Metal3 enclosed area must be >= 0.05 um
+METAL4.EA.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL4.EA.1: Metal4 enclosed area must be >= 0.05 um
+METAL5.EA.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL5.EA.1: Metal5 enclosed area must be >= 0.05 um
+METAL6.EA.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL6.EA.1: Metal6 enclosed area must be >= 0.05 um
+METAL7.EA.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL7.EA.1: Metal7 enclosed area must be >= 0.05 um
+METAL8.EA.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL8.EA.1: Metal8 enclosed area must be >= 0.05 um
+METAL9.EA.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL9.EA.1: Metal9 enclosed area must be >= 0.05 um
+METAL10.EA.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL10.EA.1: Metal10 enclosed area must be >= 0.05 um
+METAL11.EA.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+METAL11.EA.1: Metal11 enclosed area must be >= 0.05 um
+CMET.S.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+CMET.S.1: Minimum space of CapMetal >= 1.0 um
+CMET.W.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+CMET.W.1: Minimum width of CapMetal >= 1.0 um
+CMET.E.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+CMET.E.1: Minimum Metal 1 overlap of Via 10 on CapMetal >= 0.05 um
+CMET.E.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+CMET.E.2: Minimum CapMetal overlap of Via 10 >= 0.15 um
+CMET.E.4
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+CMET.E.4: Minimum Metal 10 overlap of CapMetal >= 0.2 um
+CMET.E.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+CMET.E.3: Minimum CapMetal extension over Metal 11 >= 0.1 um
+VIA1.W.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA1.W.1: Via1 shapes must be 0.07x0.07 rectangles
+VIA1.SP.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA1.SP.1: Via1 to Via1 spacing must be >= 0.07 um
+VIA2.W.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA2.W.1: Via2 shapes must be 0.07x0.07 rectangles
+VIA2.SP.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA2.SP.1: Via2 to Via2 spacing must be >= 0.07 um
+VIA3.W.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA3.W.1: Via3 shapes must be 0.07x0.07 rectangles
+VIA3.SP.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA3.SP.1: Via3 to Via3 spacing must be >= 0.07 um
+VIA4.W.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA4.W.1: Via4 shapes must be 0.07x0.07 rectangles
+VIA4.SP.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA4.SP.1: Via4 to Via4 spacing must be >= 0.07 um
+VIA5.W.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA5.W.1: Via5 shapes must be 0.07x0.07 rectangles
+VIA5.SP.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA5.SP.1: Via5 to Via5 spacing must be >= 0.07 um
+VIA6.W.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA6.W.1: Via6 shapes must be 0.07x0.07 rectangles
+VIA6.SP.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA6.SP.1: Via6 to Via6 spacing must be >= 0.07 um
+VIA7.W.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA7.W.1: Via7 shapes must be 0.07x0.07 rectangles
+VIA7.SP.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA7.SP.1: Via7 to Via7 spacing must be >= 0.07 um
+VIA8.W.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA8.W.1: Via8 shapes must be 0.07x0.07 rectangles
+VIA8.SP.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA8.SP.1: Via8 to Via8 spacing must be >= 0.07 um
+VIA9.W.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA9.W.1: Via9 shapes must be 0.18x0.18 rectangles
+VIA9.SP.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA9.SP.1: Via9 to Via9 spacing must be >= 0.18 um
+VIA10.W.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA10.W.1: Via10 shapes must be 0.18x0.18 rectangles
+VIA10.SP.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA10.SP.1: Via10 to Via10 spacing must be >= 0.18 um
+VIA1.E.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA1.E.1: Metal1 to Via1 enclosure must be >= 0.005 um
+VIA1.E.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA1.E.2: Metal1 to Via1 enclosure on opposite sides must be >= 0.03 um
+VIA2.E.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA2.E.1: Metal2 to Via2 enclosure must be >= 0.005 um
+VIA2.E.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA2.E.2: Metal2 to Via2 enclosure on opposite sides must be >= 0.03 um
+VIA3.E.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA3.E.1: Metal3 to Via3 enclosure must be >= 0.005 um
+VIA3.E.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA3.E.2: Metal3 to Via3 enclosure on opposite sides must be >= 0.03 um
+VIA4.E.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA4.E.1: Metal4 to Via4 enclosure must be >= 0.005 um
+VIA4.E.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA4.E.2: Metal4 to Via4 enclosure on opposite sides must be >= 0.03 um
+VIA5.E.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA5.E.1: Metal5 to Via5 enclosure must be >= 0.005 um
+VIA5.E.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA5.E.2: Metal5 to Via5 enclosure on opposite sides must be >= 0.03 um
+VIA6.E.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA6.E.1: Metal6 to Via6 enclosure must be >= 0.005 um
+VIA6.E.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA6.E.2: Metal6 to Via6 enclosure on opposite sides must be >= 0.03 um
+VIA7.E.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA7.E.1: Metal7 to Via7 enclosure must be >= 0.005 um
+VIA7.E.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA7.E.2: Metal7 to Via7 enclosure on opposite sides must be >= 0.03 um
+VIA8.E.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA8.E.1: Metal8 to Via8 enclosure must be >= 0.005 um
+VIA8.E.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA8.E.2: Metal8 to Via8 enclosure on opposite sides must be >= 0.03 um
+VIA9.E.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA9.E.1: Metal9 to Via9 enclosure must be >= 0.015 um
+VIA9.E.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA9.E.2: Metal9 to Via9 enclosure on opposite sides must be >= 0.04 um
+VIA10.E.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA10.E.1: Metal10 to Via10 enclosure must be >= 0.015 um
+VIA10.E.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA10.E.2: Metal10 to Via10 enclosure on opposite sides must be >= 0.04 um
+VIA1.E.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA1.E.3: At least 2 Via1 must be used to join Metal1 and Metal2 when they are within 3.0um of a metal plate (Metal1/Metal2) when the metal plate size is has width > 1.5 and length > 1.5
+VIA2.E.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA2.E.3: At least 2 Via2 must be used to join Metal2 and Metal3 when they are within 3.0um of a metal plate (Metal2/Metal3) when the metal plate size is has width > 1.5 and length > 1.5
+VIA3.E.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA3.E.3: At least 2 Via3 must be used to join Metal3 and Metal4 when they are within 3.0um of a metal plate (Metal3/Metal4) when the metal plate size is has width > 1.5 and length > 1.5
+VIA4.E.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA4.E.3: At least 2 Via4 must be used to join Metal4 and Metal5 when they are within 3.0um of a metal plate (Metal4/Metal5) when the metal plate size is has width > 1.5 and length > 1.5
+VIA5.E.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA5.E.3: At least 2 Via5 must be used to join Metal5 and Metal6 when they are within 3.0um of a metal plate (Metal5/Metal6) when the metal plate size is has width > 1.5 and length > 1.5
+VIA6.E.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA6.E.3: At least 2 Via6 must be used to join Metal6 and Metal7 when they are within 3.0um of a metal plate (Metal6/Metal7) when the metal plate size is has width > 1.5 and length > 1.5
+VIA7.E.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA7.E.3: At least 2 Via7 must be used to join Metal7 and Metal8 when they are within 3.0um of a metal plate (Metal7/Metal8) when the metal plate size is has width > 1.5 and length > 1.5
+VIA8.E.3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA8.E.3: At least 2 Via8 must be used to join Metal8 and Metal9 when they are within 3.0um of a metal plate (Metal8/Metal9) when the metal plate size is has width > 1.5 and length > 1.5
+VIA1.X.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA1.X.1: Metal1 must connect to Metal2 with >= 2 Via1 spaced < 0.30 um or >= 4 Via1 spaced < 0.60 um
+VIA2.X.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA2.X.1: Metal2 must connect to Metal3 with >= 2 Via2 spaced < 0.30 um or >= 4 Via2 spaced < 0.60 um
+VIA3.X.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA3.X.1: Metal3 must connect to Metal4 with >= 2 Via3 spaced < 0.30 um or >= 4 Via3 spaced < 0.60 um
+VIA4.X.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA4.X.1: Metal4 must connect to Metal5 with >= 2 Via4 spaced < 0.30 um or >= 4 Via4 spaced < 0.60 um
+VIA5.X.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA5.X.1: Metal5 must connect to Metal6 with >= 2 Via5 spaced < 0.30 um or >= 4 Via5 spaced < 0.60 um
+VIA6.X.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA6.X.1: Metal6 must connect to Metal7 with >= 2 Via6 spaced < 0.30 um or >= 4 Via6 spaced < 0.60 um
+VIA7.X.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA7.X.1: Metal7 must connect to Metal8 with >= 2 Via7 spaced < 0.30 um or >= 4 Via7 spaced < 0.60 um
+VIA8.X.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA8.X.1: Metal8 must connect to Metal9 with >= 2 Via8 spaced < 0.30 um or >= 4 Via8 spaced < 0.60 um
+VIA1.X.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA1.X.2: Metal1 must connect to Metal2 with >= 4 Via1 spaced < 0.30 um or >= 9 Via1 spaced < 0.60 um
+VIA2.X.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA2.X.2: Metal2 must connect to Metal3 with >= 4 Via2 spaced < 0.30 um or >= 9 Via2 spaced < 0.60 um
+VIA3.X.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA3.X.2: Metal3 must connect to Metal4 with >= 4 Via3 spaced < 0.30 um or >= 9 Via3 spaced < 0.60 um
+VIA4.X.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA4.X.2: Metal4 must connect to Metal5 with >= 4 Via4 spaced < 0.30 um or >= 9 Via4 spaced < 0.60 um
+VIA5.X.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA5.X.2: Metal5 must connect to Metal6 with >= 4 Via5 spaced < 0.30 um or >= 9 Via5 spaced < 0.60 um
+VIA6.X.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA6.X.2: Metal6 must connect to Metal7 with >= 4 Via6 spaced < 0.30 um or >= 9 Via6 spaced < 0.60 um
+VIA7.X.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA7.X.2: Metal7 must connect to Metal8 with >= 4 Via7 spaced < 0.30 um or >= 9 Via7 spaced < 0.60 um
+VIA8.X.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIA8.X.2: Metal8 must connect to Metal9 with >= 4 Via8 spaced < 0.30 um or >= 9 Via8 spaced < 0.60 um
+VIAk.X.3_VIAk.X.4
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIAk.X.3_VIAk.X.4: Metal1 through Metal6 stack must have two or more stacked Vias at all levels
+VIAk.X.3_VIAk.X.4_2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIAk.X.3_VIAk.X.4: Metal2 through Metal7 stack must have two or more stacked Vias at all levels
+VIAk.X.3_VIAk.X.4_3
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIAk.X.3_VIAk.X.4: Metal3 through Metal8 stack must have two or more stacked Vias at all levels
+VIAk.X.3_VIAk.X.4_4
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+VIAk.X.3_VIAk.X.4: Metal4 through Metal9 stack must have two or more stacked Vias at all levels
+LATCHUP.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+LATCHUP.1: The maximum distance from any point in a P+ source/drain Active Area to the nearest Nwell pick-up in the same Nwell >= 20.0 um
+LATCHUP.2
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+LATCHUP.2: The maximum distance from any point in a N+ source/drain Active Area to the nearest Psub pick-up in the same Psub >= 20.0 um
+ESD.1
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+ESD.1: ESD gate width must be >= 10.0 um and <= 30.0 um
+ESD.5
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+ESD.5: NMOS I/O and ESD devices must be inside P+ rings
+ESD.6
+0 0 2 Jan 14 10:58:55 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+ESD.6: PMOS I/O and ESD devices must be inside N+ rings
+ESD.7
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+ESD.7: P+ taps can NOT butt NMOS I/O and ESD devices
+ESD.7_2
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+ESD.7: N+ taps can NOT butt PMOS I/O and ESD devices
+ESD.11
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+ESD.11: Minimum SiProt to Poly gate overlap in NMOS and PMOS drains >= 0.05 um
+ESD.12
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+ESD.12: Minimum enclosure of SiProt edge to Poly gate edge in NMOS and PMOS drains >= 0.9 um
+ESD.13
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+ESD.13: Minimum SiProt to Oxide overlap in NMOS and PMOS I/O drains >= 0.9 um
+ESD.14
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+ESD.14: Exact gate length of NMOS and PMOS in I/O buffers and in Vdd to Vss ESD protection == 0.2 um
+ESD.15
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+ESD.15: Minimu Poly gate to Contact spacing in NMOS and PMOS in I/O buffers and in Vdd to Vss ESD protection >= 0.12 um
+BONDPAD.E.1
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.E.1: Metal1 to Bondpad enclosure must be >= 2.0 um
+BONDPAD.SP.2
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.2: Bondpad Metal1 to Metal1 spacing must be >= 3.0 um
+BONDPAD.E.1_2
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.E.1: Metal2 to Bondpad enclosure must be >= 2.0 um
+BONDPAD.SP.2_2
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.2: Bondpad Metal2 to Metal2 spacing must be >= 3.0 um
+BONDPAD.E.1_3
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.E.1: Metal3 to Bondpad enclosure must be >= 2.0 um
+BONDPAD.SP.2_3
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.2: Bondpad Metal3 to Metal3 spacing must be >= 3.0 um
+BONDPAD.E.1_4
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.E.1: Metal4 to Bondpad enclosure must be >= 2.0 um
+BONDPAD.SP.2_4
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.2: Bondpad Metal4 to Metal4 spacing must be >= 3.0 um
+BONDPAD.E.1_5
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.E.1: Metal5 to Bondpad enclosure must be >= 2.0 um
+BONDPAD.SP.2_5
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.2: Bondpad Metal5 to Metal5 spacing must be >= 3.0 um
+BONDPAD.E.1_6
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.E.1: Metal6 to Bondpad enclosure must be >= 2.0 um
+BONDPAD.SP.2_6
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.2: Bondpad Metal6 to Metal6 spacing must be >= 3.0 um
+BONDPAD.E.1_7
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.E.1: Metal7 to Bondpad enclosure must be >= 2.0 um
+BONDPAD.SP.2_7
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.2: Bondpad Metal7 to Metal7 spacing must be >= 3.0 um
+BONDPAD.E.1_8
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.E.1: Metal8 to Bondpad enclosure must be >= 2.0 um
+BONDPAD.SP.2_8
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.2: Bondpad Metal8 to Metal8 spacing must be >= 3.0 um
+BONDPAD.E.1_9
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.E.1: Metal9 to Bondpad enclosure must be >= 2.0 um
+BONDPAD.SP.2_9
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.2: Bondpad Metal9 to Metal9 spacing must be >= 3.0 um
+BONDPAD.E.1_10
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.E.1: Metal10 to Bondpad enclosure must be >= 2.0 um
+BONDPAD.SP.2_10
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.2: Bondpad Metal10 to Metal10 spacing must be >= 3.0 um
+BONDPAD.E.1_11
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.E.1: Metal11 to Bondpad enclosure must be >= 2.0 um
+BONDPAD.SP.2_11
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.2: Bondpad Metal11 to Metal11 spacing must be >= 3.0 um
+BONDPAD.B.1A
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.B.1A: Bondpad Metal1 must have bevelled corners
+BONDPAD.B.1A_2
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.B.1A: Bondpad Metal2 must have bevelled corners
+BONDPAD.B.1A_3
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.B.1A: Bondpad Metal3 must have bevelled corners
+BONDPAD.B.1A_4
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.B.1A: Bondpad Metal4 must have bevelled corners
+BONDPAD.B.1A_5
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.B.1A: Bondpad Metal5 must have bevelled corners
+BONDPAD.B.1A_6
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.B.1A: Bondpad Metal6 must have bevelled corners
+BONDPAD.B.1A_7
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.B.1A: Bondpad Metal7 must have bevelled corners
+BONDPAD.B.1A_8
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.B.1A: Bondpad Metal8 must have bevelled corners
+BONDPAD.B.1A_9
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.B.1A: Bondpad Metal9 must have bevelled corners
+BONDPAD.B.1A_10
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.B.1A: Bondpad Metal10 must have bevelled corners
+BONDPAD.B.1A_11
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.B.1A: Bondpad Metal11 must have bevelled corners
+BONDPAD.W.1
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.W.1: Bondpad width must be >= 55.0 um
+BONDPAD.SP.1
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.1: Bondpad to Bondpad spacing must be >= 8.0 um
+BONDPAD.L.1
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.L.1: Bondpad length must be >= 68.0 um
+BONDPAD.B.1B
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.B.1B: Bondpad Metal1 beveled segments must be >= 1.8 um and <= 3.2 um
+BONDPAD.B.1B_2
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.B.1B: Bondpad Metal2 beveled segments must be >= 1.8 um and <= 3.2 um
+BONDPAD.B.1B_3
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.B.1B: Bondpad Metal3 beveled segments must be >= 1.8 um and <= 3.2 um
+BONDPAD.B.1B_4
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.B.1B: Bondpad Metal4 beveled segments must be >= 1.8 um and <= 3.2 um
+BONDPAD.B.1B_5
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.B.1B: Bondpad Metal5 beveled segments must be >= 1.8 um and <= 3.2 um
+BONDPAD.B.1B_6
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.B.1B: Bondpad Metal6 beveled segments must be >= 1.8 um and <= 3.2 um
+BONDPAD.B.1B_7
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.B.1B: Bondpad Metal7 beveled segments must be >= 1.8 um and <= 3.2 um
+BONDPAD.B.1B_8
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.B.1B: Bondpad Metal8 beveled segments must be >= 1.8 um and <= 3.2 um
+BONDPAD.B.1B_9
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.B.1B: Bondpad Metal9 beveled segments must be >= 1.8 um and <= 3.2 um
+BONDPAD.B.1B_10
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.B.1B: Bondpad Metal10 beveled segments must be >= 1.8 um and <= 3.2 um
+BONDPAD.B.1B_11
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.B.1B: Bondpad Metal11 beveled segments must be >= 1.8 um and <= 3.2 um
+BONDPAD.SP.3
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.3: Bondpad Via1 to Bondpad Via1 spacing must be >= 0.22 um
+BONDPAD.SP.3_2
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.3: Bondpad Via2 to Bondpad Via2 spacing must be >= 0.22 um
+BONDPAD.SP.3_3
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.3: Bondpad Via3 to Bondpad Via3 spacing must be >= 0.22 um
+BONDPAD.SP.3_4
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.3: Bondpad Via4 to Bondpad Via4 spacing must be >= 0.22 um
+BONDPAD.SP.3_5
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.3: Bondpad Via5 to Bondpad Via5 spacing must be >= 0.22 um
+BONDPAD.SP.3_6
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.3: Bondpad Via6 to Bondpad Via6 spacing must be >= 0.22 um
+BONDPAD.SP.4
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.4: Bondpad Via7 to Bondpad Via7 spacing must be >= 0.22 um
+BONDPAD.SP.4_2
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.4: Bondpad Via8 to Bondpad Via8 spacing must be >= 0.22 um
+BONDPAD.SP.4_3
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.4: Bondpad Via9 to Bondpad Via9 spacing must be >= 0.54 um
+BONDPAD.SP.4_4
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.4: Bondpad Via10 to Bondpad Via10 spacing must be >= 0.54 um
+BONDPAD.E.2
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal1 to Via1 enclosure must be >= 0.05 um
+BONDPAD.E.2_2
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal2 to Via2 enclosure must be >= 0.05 um
+BONDPAD.E.2_3
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal3 to Via3 enclosure must be >= 0.05 um
+BONDPAD.E.2_4
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal4 to Via4 enclosure must be >= 0.05 um
+BONDPAD.E.2_5
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal5 to Via5 enclosure must be >= 0.05 um
+BONDPAD.E.2_6
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal6 to Via6 enclosure must be >= 0.05 um
+BONDPAD.E.3
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.E.3: Bondpad Metal7 to Via7 enclosure must be >= 0.05 um
+BONDPAD.E.3_2
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.E.3: Bondpad Metal8 to Via8 enclosure must be >= 0.05 um
+BONDPAD.E.3_3
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.E.3: Bondpad Metal9 to Via9 enclosure must be >= 0.09 um
+BONDPAD.E.3_4
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.E.3: Bondpad Metal9 to Via10 enclosure must be >= 0.09 um
+BONDPAD.E.2_7
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal2 to Via1 enclosure must be >= 0.05 um
+BONDPAD.E.2_8
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal3 to Via2 enclosure must be >= 0.05 um
+BONDPAD.E.2_9
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal4 to Via3 enclosure must be >= 0.05 um
+BONDPAD.E.2_10
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal5 to Via4 enclosure must be >= 0.05 um
+BONDPAD.E.2_11
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal6 to Via5 enclosure must be >= 0.05 um
+BONDPAD.E.2_12
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.E.2: Bondpad Metal7 to Via6 enclosure must be >= 0.05 um
+BONDPAD.E.3_5
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.E.3: Bondpad Metal8 to Via7 enclosure must be >= 0.05 um
+BONDPAD.E.3_6
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.E.3: Bondpad Metal9 to Via8 enclosure must be >= 0.05 um
+BONDPAD.E.3_7
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.E.3: Bondpad Metal10 to Via9 enclosure must be >= 0.09 um
+BONDPAD.E.3_8
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.E.3: Bondpad Metal11 to Via10 enclosure must be >= 0.09 um
+BONDPAD.R.1
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.R.1: Minimum Bondpad Via1 inside Metal1 to Metal2 crossing must be >= 16.0
+BONDPAD.R.1_2
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.R.1: Minimum Bondpad Via2 inside Metal2 to Metal3 crossing must be >= 16.0
+BONDPAD.R.1_3
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.R.1: Minimum Bondpad Via3 inside Metal3 to Metal4 crossing must be >= 16.0
+BONDPAD.R.1_4
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.R.1: Minimum Bondpad Via4 inside Metal4 to Metal5 crossing must be >= 16.0
+BONDPAD.R.1_5
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.R.1: Minimum Bondpad Via5 inside Metal5 to Metal6 crossing must be >= 16.0
+BONDPAD.R.1_6
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.R.1: Minimum Bondpad Via6 inside Metal6 to Metal7 crossing must be >= 16.0
+BONDPAD.R.1_7
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.R.1: Minimum Bondpad Via7 inside Metal7 to Metal8 crossing must be >= 16.0
+BONDPAD.R.1_8
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.R.1: Minimum Bondpad Via8 inside Metal8 to Metal9 crossing must be >= 16.0
+BONDPAD.R.2
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.R.2: Minimum Bondpad Via9 inside Metal9 to Metal10 crossing must be >= 4.0
+BONDPAD.R.2_2
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.R.2: Minimum Bondpad Via10 inside Metal10 to Metal11 crossing must be >= 4.0
+BONDPAD.SP.5
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.5: Bondpad Metal1 slot to Bondpad Metal1 slot spacing must be == 1.50
+BONDPAD.SP.5_2
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.5: Bondpad Metal2 slot to Bondpad Metal2 slot spacing must be == 1.50
+BONDPAD.SP.5_3
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.5: Bondpad Metal3 slot to Bondpad Metal3 slot spacing must be == 1.50
+BONDPAD.SP.5_4
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.5: Bondpad Metal4 slot to Bondpad Metal4 slot spacing must be == 1.50
+BONDPAD.SP.5_5
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.5: Bondpad Metal5 slot to Bondpad Metal5 slot spacing must be == 1.50
+BONDPAD.SP.5_6
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.5: Bondpad Metal6 slot to Bondpad Metal6 slot spacing must be == 1.50
+BONDPAD.SP.5_7
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.5: Bondpad Metal7 slot to Bondpad Metal7 slot spacing must be == 1.50
+BONDPAD.SP.5_8
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.5: Bondpad Metal8 slot to Bondpad Metal8 slot spacing must be == 1.50
+BONDPAD.SP.5_9
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.5: Bondpad Metal9 slot to Bondpad Metal9 slot spacing must be == 1.50
+BONDPAD.SP.5_10
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.5: Bondpad Metal10 slot to Bondpad Metal10 slot spacing must be == 1.50
+BONDPAD.W.4
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.W.4: Bondpad Metal1 slot width must be == 1.00
+BONDPAD.W.4_2
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.W.4: Bondpad Metal2 slot width must be == 1.00
+BONDPAD.W.4_3
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.W.4: Bondpad Metal3 slot width must be == 1.00
+BONDPAD.W.4_4
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.W.4: Bondpad Metal4 slot width must be == 1.00
+BONDPAD.W.4_5
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.W.4: Bondpad Metal5 slot width must be == 1.00
+BONDPAD.W.4_6
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.W.4: Bondpad Metal6 slot width must be == 1.00
+BONDPAD.W.4_7
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.W.4: Bondpad Metal7 slot width must be == 1.00
+BONDPAD.W.4_8
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.W.4: Bondpad Metal8 slot width must be == 1.00
+BONDPAD.W.4_9
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.W.4: Bondpad Metal9 slot width must be == 1.00
+BONDPAD.W.4_10
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.W.4: Bondpad Metal10 slot width must be == 1.00
+BONDPAD.W.5
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.W.5: Bondpad Metal1 outside Metal1 ring width must be == 5.00
+BONDPAD.W.5_2
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.W.5: Bondpad Metal2 outside Metal2 ring width must be == 5.00
+BONDPAD.W.5_3
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.W.5: Bondpad Metal3 outside Metal3 ring width must be == 5.00
+BONDPAD.W.5_4
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.W.5: Bondpad Metal4 outside Metal4 ring width must be == 5.00
+BONDPAD.W.5_5
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.W.5: Bondpad Metal5 outside Metal5 ring width must be == 5.00
+BONDPAD.W.5_6
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.W.5: Bondpad Metal6 outside Metal6 ring width must be == 5.00
+BONDPAD.W.5_7
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.W.5: Bondpad Metal7 outside Metal7 ring width must be == 5.00
+BONDPAD.W.5_8
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.W.5: Bondpad Metal8 outside Metal8 ring width must be == 5.00
+BONDPAD.W.5_9
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.W.5: Bondpad Metal9 outside Metal9 ring width must be == 5.00
+BONDPAD.W.5_10
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.W.5: Bondpad Metal10 outside Metal10 ring width must be == 5.00
+BONDPAD.SP.6
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal1 to Bondpad Metal1 spacing across first slot must be >= 1.00 um and <= 3.50 um
+BONDPAD.SP.6_2
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal2 to Bondpad Metal2 spacing across first slot must be >= 1.00 um and <= 3.50 um
+BONDPAD.SP.6_3
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal3 to Bondpad Metal3 spacing across first slot must be >= 1.00 um and <= 3.50 um
+BONDPAD.SP.6_4
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal4 to Bondpad Metal4 spacing across first slot must be >= 1.00 um and <= 3.50 um
+BONDPAD.SP.6_5
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal5 to Bondpad Metal5 spacing across first slot must be >= 1.00 um and <= 3.50 um
+BONDPAD.SP.6_6
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal6 to Bondpad Metal6 spacing across first slot must be >= 1.00 um and <= 3.50 um
+BONDPAD.SP.6_7
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal7 to Bondpad Metal7 spacing across first slot must be >= 1.00 um and <= 3.50 um
+BONDPAD.SP.6_8
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal8 to Bondpad Metal8 spacing across first slot must be >= 1.00 um and <= 3.50 um
+BONDPAD.SP.6_9
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal9 to Bondpad Metal9 spacing across first slot must be >= 1.00 um and <= 3.50 um
+BONDPAD.SP.6_10
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.6: Bondpad Metal10 to Bondpad Metal10 spacing across first slot must be >= 1.00 um and <= 3.50 um
+BONDPAD.SP.7
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.7: Bondpad Via1 array to Bondpad Via1 array spacing must be >= 1.1 um
+BONDPAD.SP.7_2
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.7: Bondpad Via2 array to Bondpad Via2 array spacing must be >= 1.1 um
+BONDPAD.SP.7_3
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.7: Bondpad Via3 array to Bondpad Via3 array spacing must be >= 1.1 um
+BONDPAD.SP.7_4
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.7: Bondpad Via4 array to Bondpad Via4 array spacing must be >= 1.1 um
+BONDPAD.SP.7_5
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.7: Bondpad Via5 array to Bondpad Via5 array spacing must be >= 1.1 um
+BONDPAD.SP.7_6
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.7: Bondpad Via6 array to Bondpad Via6 array spacing must be >= 1.1 um
+BONDPAD.SP.7_7
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.7: Bondpad Via7 array to Bondpad Via7 array spacing must be >= 1.1 um
+BONDPAD.SP.7_8
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.7: Bondpad Via8 array to Bondpad Via8 array spacing must be >= 1.1 um
+BONDPAD.SP.7_9
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.7: Bondpad Via9 array to Bondpad Via9 array spacing must be >= 1.1 um
+BONDPAD.SP.7_10
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+BONDPAD.SP.7: Bondpad Via10 array to Bondpad Via10 array spacing must be >= 1.1 um
+OXIDER.W.1.1
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+OXIDER.W.1.1: Minimum Active Resistor width >= 0.1 um
+POLYR.W.1.1
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+POLYR.W.1.1: Minimum Poly resistor width >= 0.1 um
+soft_check_1
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+soft_check_1: pdiff_conn causing multiple stamped connections to ptap
+soft_check_2
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+soft_check_2: ptap has multiple stamped connections from pdiff_conn
+soft_check_4
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+soft_check_4: ptap causing multiple stamped connections to psubstrate
+soft_check_5
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+soft_check_5: psubstrate has multiple stamped connections from ptap
+soft_check_7
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+soft_check_7: ndiff_conn causing multiple stamped connections to ntap
+soft_check_8
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+soft_check_8: ntap has multiple stamped connections from ndiff_conn
+soft_check_10
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+soft_check_10: ntap causing multiple stamped connections to nwell_conn
+soft_check_11
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+soft_check_11: nwell_conn has multiple stamped connections from ntap
+soft_check_13
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+soft_check_13: nwell_conn causing multiple stamped connections to nb_tap
+soft_check_14
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+soft_check_14: nb_tap has multiple stamped connections from nwell_conn
+soft_check_16
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+soft_check_16: nb_tap causing multiple stamped connections to Nburied
+soft_check_17
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+soft_check_17: Nburied has multiple stamped connections from nb_tap
+NW.SP.1
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NW.SP.1: Minimum Nwell spacing to Nwell (same potential) >= 0.3 um
+NW.SP.2_3
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+NW.SP.2: Minimum Nwell spacing to Nwell (different potential) >= 0.6 um
+LATCHUP.3
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+LATCHUP.3: Minimum I/O or ESD NMOS to PMOS spacing >= 10.0 um
+LATCHUP.4
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+LATCHUP.4: Minimum I/O or ESD NMOS to PMOS spacing when not blocked by a double guardring >= 30.0 um
+ESD.4
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+ESD.4: N+ source should connect to Pad or Bulk
+ESD.4_2
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+ESD.4: P+ source should connect to Pad or Nwell
+ESD.8
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+ESD.8: N+ drains must be non-salicided (except Contact area)
+ESD.8_2
+0 0 2 Jan 14 10:58:56 2020
+Rule File Pathname: /software/cadence/users/user27/Desktop/myFile/DRC/.technology.rul
+ESD.8: P+ drains must be non-salicided (except Contact area)

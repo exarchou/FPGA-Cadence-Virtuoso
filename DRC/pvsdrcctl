@@ -1,0 +1,14 @@
+text_depth -primary;
+virtual_connect -colon no;
+virtual_connect -semicolon_as_colon yes;
+virtual_connect -noname;
+virtual_connect -report no;
+virtual_connect -depth -primary;
+report_summary -drc "switchBox.sum" -replace;
+max_results -drc 1000;
+max_vertex -drc 4096;
+results_db -drc "/software/cadence/users/user27/Desktop/myFile/DRC/switchBox.drc_errors.ascii" -ascii;
+keep_layers -none;
+abort_on_layout_error yes;
+layout_format gdsii;
+layout_path "/software/cadence/users/user27/Desktop/myFile/DRC/switchBox.gds";
