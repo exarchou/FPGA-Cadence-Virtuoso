@@ -4,7 +4,7 @@
 
 ### 1. Introduction
 
-The purpose of this project is to describe the process of analog design of an electrical circuit, consisting of CMOS, with the help of the **Cadence Virtuoso** tool.
+The purpose of this project is to describe the process of the analog design of an electrical circuit, consisting of CMOS, with the help of the **Cadence Virtuoso** tool.
 
 We were requested the design of a **switch box** used by an **FPGA**. FPGA or Field Programmable Gate Array is a general purpose integrated circuit consisting of a number of logic gates and other systems used to handle digital operations. An FPGA is placed in a circuit and then programmed to combine suitable gates and other standard circuits to operate the functions of the circuit. Switch boxes are circuits contained in an FPGA and their role is to be able to connect the various subsystems to each other depending on the control signals they receive.
 
